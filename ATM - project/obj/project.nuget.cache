@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vBrBSYZkXjNyjgvA3DjZDkX6Y7AGT3Zzq6qKWmrH0hc6oCgck03Wjc/yMtb/jIB8e7HQywvVDWwhIhPITEbMDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\HomeWorks\\HomeWork 2\\ATM - project\\ATM - project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
